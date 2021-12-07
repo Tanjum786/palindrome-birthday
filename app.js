@@ -31,7 +31,6 @@ function convertDate(date){
     return dateStr
 }
 
-// console.log(convertDate(date));
 function getAlldateformate(date){
     var dateStr=convertDate(date);
 
@@ -134,7 +133,7 @@ var showBtn=document.querySelector("#show-btn");
 var output=document.querySelector("#output");
 
 function clickHandler(e){
-    bdayStr=dateInput.value ;
+   var bdayStr=dateInput.value ;
     if (bdayStr !==""){
         var listOfdate=bdayStr.split("-");
         var date={
