@@ -1,0 +1,54 @@
+h1:hover{
+    color:palevioletred;
+}
+h1{
+    font-size: 40px;
+    margin-top: 2rem;
+    color:blue;
+    text-align: center;
+}
+img{
+    overflow: hidden;
+    margin-top: -10px;
+    width: 1300px;
+    height: 250px;
+}
+input{
+    margin-top: -10rem;
+    position: relative;
+    left: 33rem;
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: aqua;
+    color: blue;
+}
+button:hover{
+    background-color:pink;
+}
+button{
+    position: relative;
+    left: 21rem;
+    top: 4rem;
+    padding:0.5rem 2rem;
+    background-color: blue;
+    font-size: 1rem;
+    color:black;
+}
+p{
+    position: relative;
+    left: 25rem;
+    top: 4rem;
+    font-size: 20px;
+    font-style: italic;
+    
+
+}
+#output{
+    padding: 0.5rem;
+    text-align: center;
+    height: 50px;
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+}
