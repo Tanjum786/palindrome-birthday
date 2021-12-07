@@ -1,11 +1,16 @@
 h1:hover{
     color:palevioletred;
 }
+body{
+    display: block;
+    margin: auto;
+    overflow: hidden;
+}
 h1{
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 2rem;
     color:blue;
-    text-align: center;
+   text-align: center;
 }
 img{
     overflow: hidden;
