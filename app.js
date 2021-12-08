@@ -54,7 +54,7 @@ function checkpalindromeForalldateformate(date){
         if (isPalindrome(listofpalindrome[i])) {
             ispalindrome=true;
             break
-            
+    
         }    
         
     }
